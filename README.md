@@ -14,7 +14,7 @@
 ### 输出结果
 ![create](https://github.com/wangyupush/homework7/blob/master/50-res.png)
 ### 判断词频>80的
-![create](https://github.com/wangyupush/homework7/blob/master/80png)
+![create](https://github.com/wangyupush/homework7/blob/master/80.png)
 ### 输出结果
 ![create](https://github.com/wangyupush/homework7/blob/master/80-res.png)
 ### 判断词频大于50小于80的
